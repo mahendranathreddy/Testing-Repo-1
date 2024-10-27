@@ -1,8 +1,0 @@
-Hello Team, My name is Mahendra. I am from AI & Robotics.
-
-this edit is to check the pull and push on bit bucket git commands.
-
-this line is check the version control to RStudio.
-sgs
-gasgg
-sgsdfg
